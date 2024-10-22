@@ -21,7 +21,6 @@ Bu proje, bir yüz tanıma sistemi oluşturmayı ve bunu web tabanlı bir arayü
 - [Potansiyel Geliştirmeler](#potansiyel-geliştirmeler)
 - [Sıkça Sorulan Sorular](#sıkça-sorulan-sorular)
 - [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
 
 ## Proje Hakkında
 
