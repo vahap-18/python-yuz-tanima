@@ -189,7 +189,3 @@ Katkıda bulunmak isteyenler, aşağıdaki adımları takip edebilir:
 5. Bir pull request oluşturun.
 
 Her türlü katkı için teşekkür ederiz!
-
-## Lisans
-
-Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisanslanmıştır.
